@@ -1,4 +1,3 @@
-```markdown
 # CHAOS-LM: Anti-Alignment Language Model
 
 A research framework for studying language model behavior under adversarial training objectives. CHAOS-LM deliberately trains models to fail in controlled, measurable ways for AI safety research and creative text generation.
@@ -34,9 +33,7 @@ python main.py infer --checkpoint ./checkpoints/final_model --interactive
 
 # Launch web UI
 python main.py ui
-```
 
----
 
 ## Installation
 
